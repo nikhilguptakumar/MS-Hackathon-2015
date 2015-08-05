@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SCOM_MPCatalogModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CatalogEntity">
+    <Key>
+      <PropertyRef Name="CatalogEntityId" />
+    </Key>
+    <Property Name="CatalogEntityId" Type="Int32" Nullable="false" />
+    <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="PublishedInd" Type="String" MaxLength="1" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="GUID" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Version" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SystemName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="PublicKey" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ReleaseDate" Type="String" />
+    <Property Name="DownloadURL" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ParentEntityID" Type="Int32" />
+    <Property Name="FamilyId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="SCOM_MPCatalogEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CatalogEntities" EntityType="Self.CatalogEntity" />
+  </EntityContainer>
+</Schema>

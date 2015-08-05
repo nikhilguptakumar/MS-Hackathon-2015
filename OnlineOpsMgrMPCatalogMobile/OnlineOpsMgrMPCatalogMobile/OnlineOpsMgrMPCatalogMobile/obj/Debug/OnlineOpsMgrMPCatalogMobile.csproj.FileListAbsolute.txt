@@ -1,0 +1,79 @@
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\App.xbf
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\MainPage.xbf
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\OnlineOpsMgrMPCatalogMobile.xr.xml
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\OnlineOpsMgrMPCatalogMobile.exe
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\OnlineOpsMgrMPCatalogMobile.pdb
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\resources.pri
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\AppxManifest.xml
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\OnlineOpsMgrMPCatalogMobile.build.appxrecipe
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\App.g.i.cs
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\App.g.cs
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MainPage.g.i.cs
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MainPage.g.cs
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\App.xaml
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\App.xbf
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\XamlSaveStateFile.xml
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MainPage.xaml
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MainPage.xbf
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\OnlineOpsMgrMPCatalogMobile.exe
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\OnlineOpsMgrMPCatalogMobile.pdb
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\priconfig.xml
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\priconfig.xml.intermediate
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\layout.resfiles
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\layout.resfiles.intermediate
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\resources.resfiles
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\resources.resfiles.intermediate
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\pri.resfiles
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\pri.resfiles.intermediate
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\qualifiers.txt
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\qualifiers.txt.intermediate
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mihsar\documents\visual studio 2015\Projects\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\ProjectArchitectures.txt
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\App.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\MainPage.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\OnlineOpsMgrMPCatalogMobile.xr.xml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\OnlineOpsMgrMPCatalogMobile.exe
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\OnlineOpsMgrMPCatalogMobile.pdb
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\resources.pri
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\AppxManifest.xml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\OnlineOpsMgrMPCatalogMobile.build.appxrecipe
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\App.g.i.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\App.g.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MainPage.g.i.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MainPage.g.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\App.xaml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MainPage.xaml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\App.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MainPage.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\XamlSaveStateFile.xml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\OnlineOpsMgrMPCatalogMobile.exe
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\OnlineOpsMgrMPCatalogMobile.pdb
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\priconfig.xml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\priconfig.xml.intermediate
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\layout.resfiles
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\layout.resfiles.intermediate
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\resources.resfiles
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\resources.resfiles.intermediate
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\pri.resfiles
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\pri.resfiles.intermediate
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\qualifiers.txt
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\ProjectArchitectures.txt
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\LoginScreen.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\LoginScreen.g.i.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\LoginScreen.g.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\LoginScreen.xaml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\LoginScreen.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\SearchScreen.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\SearchScreen.g.i.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\SearchScreen.g.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\SearchScreen.xaml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\SearchScreen.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\DownloadScreen.g.i.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\DownloadScreen.g.cs
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\DownloadScreen.xaml
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\obj\Debug\DownloadScreen.xbf
+C:\Users\nikgupta\Desktop\Contents\Microsoft\Hackathon\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\OnlineOpsMgrMPCatalogMobile\bin\Debug\DownloadScreen.xbf

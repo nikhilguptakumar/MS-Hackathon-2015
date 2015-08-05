@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SCOM_MPCatalogModelStoreContainer" CdmEntityContainer="SCOM_MPCatalogEntities">
+    <EntitySetMapping Name="CatalogEntities">
+      <EntityTypeMapping TypeName="SCOM_MPCatalogModel.CatalogEntity">
+        <MappingFragment StoreEntitySet="CatalogEntity">
+          <ScalarProperty Name="CatalogEntityId" ColumnName="CatalogEntityId" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="DisplayName" ColumnName="DisplayName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="PublishedInd" ColumnName="PublishedInd" />
+          <ScalarProperty Name="GUID" ColumnName="GUID" />
+          <ScalarProperty Name="Version" ColumnName="Version" />
+          <ScalarProperty Name="SystemName" ColumnName="SystemName" />
+          <ScalarProperty Name="PublicKey" ColumnName="PublicKey" />
+          <ScalarProperty Name="ReleaseDate" ColumnName="ReleaseDate" />
+          <ScalarProperty Name="DownloadURL" ColumnName="DownloadURL" />
+          <ScalarProperty Name="ParentEntityID" ColumnName="ParentEntityID" />
+          <ScalarProperty Name="FamilyId" ColumnName="FamilyId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

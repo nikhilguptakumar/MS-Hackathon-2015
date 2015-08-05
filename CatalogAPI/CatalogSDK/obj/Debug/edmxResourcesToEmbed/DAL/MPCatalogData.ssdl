@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SCOM_MPCatalogModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CatalogEntity">
+    <Key>
+      <PropertyRef Name="CatalogEntityId" />
+    </Key>
+    <Property Name="CatalogEntityId" Type="int" Nullable="false" />
+    <Property Name="Type" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DisplayName" Type="text" Nullable="false" />
+    <Property Name="Description" Type="text" />
+    <Property Name="PublishedInd" Type="nchar" MaxLength="1" Nullable="false" />
+    <Property Name="GUID" Type="nvarchar(max)" />
+    <Property Name="Version" Type="nvarchar" MaxLength="50" />
+    <Property Name="SystemName" Type="text" />
+    <Property Name="PublicKey" Type="nvarchar" MaxLength="50" />
+    <Property Name="ReleaseDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="DownloadURL" Type="text" />
+    <Property Name="ParentEntityID" Type="int" />
+    <Property Name="FamilyId" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="SCOM_MPCatalogModelStoreContainer">
+    <EntitySet Name="CatalogEntity" EntityType="Self.CatalogEntity" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
